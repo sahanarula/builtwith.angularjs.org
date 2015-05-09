@@ -1915,10 +1915,10 @@
       "submitter": "TheAncientGoat",
       "submissionDate": "2014-03-09",
       "tags": [
-  "Production",
+        "Production",
         "Productivity",
-  "Local Storage","IndexDB",
-  "No jQuery",
+        "Local Storage","IndexDB",
+        "No jQuery",
         "Chrome",
         "Extension",
         "To-Do"
