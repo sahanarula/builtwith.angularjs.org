@@ -1915,10 +1915,10 @@
       "submitter": "TheAncientGoat",
       "submissionDate": "2014-03-09",
       "tags": [
-	"Production",
+  "Production",
         "Productivity",
-	"Local Storage","IndexDB",
-	"No jQuery",
+  "Local Storage","IndexDB",
+  "No jQuery",
         "Chrome",
         "Extension",
         "To-Do"
@@ -3687,6 +3687,22 @@
         "MongoDB",
         "Responsive",
         "Cloud"
+      ]
+    },
+    {
+      "name": "Broado",
+      "thumb": "broado/thumb.png", 
+      "desc": "An interactive music player built with angular and node-webkit. It is completely free and will be available for every platform", 
+      "url": "http://sahanarula.github.io/broado", 
+      "src": "https://github.com/sahanarula/broado",
+      "submitter": "sahanarula", 
+      "submissionDate": "2015-05-09",
+      "tags": [
+        "Music", "Real-Time", 
+        "CRUD", "Entertainment", "Productivity", 
+        "Animations", "Local Storage", "Audio Api", "AppCache",
+        "Angular", "jQuery",
+        "Open Source"
       ]
     }
 
